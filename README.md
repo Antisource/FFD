@@ -12,7 +12,7 @@ The above models were evaluated using:
 - Precision
 - Recall
 - F1-score
-
+- 
 ## Generative Adversarial Network (GAN) Architecture
 
 ![GAN Architecture](https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg)
