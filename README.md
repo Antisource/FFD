@@ -6,13 +6,15 @@ The following supervised learning models are used for fraud detection:
 - Support Vector Machine (SVM)
 - K Nearest Neighbours (KNN)
 - Naive Bayes
+- XGBoost
+- Light GBM
 
 The above models were evaluated using:
 - Accuracy
 - Precision
 - Recall
 - F1-score
-- 
+  
 ## Generative Adversarial Network (GAN) Architecture
 
 ![GAN Architecture](https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg)
